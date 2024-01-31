@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente trabalho com threat intelligence
+- 🔭 Atualmente trabalho com Threat Intelligence
 - 🌱 Focado em todo aprendizado voltado para OSINT/Threat Intelligence
-- 👯 Procuro colaborar com toda a comunidade open source.
+- 👯 Procuro colaborar com toda a comunidade Open Source.
 
 
